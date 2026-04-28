@@ -9,7 +9,6 @@ Here is a highlight of the key areas I work on:
 ### 🤖 AI & Intelligent Automation
 - **Arxiv Paper Summarization Pipeline (`AutoArxivSummarization`)**: Developed a fully bilingual (English/Chinese) AI pipeline that automatically fetches, analyzes, and summarizes arXiv papers. Leveraging Google Cloud Run and advanced LLMs, it features a sophisticated "Adjudicator" module to evaluate full-text content and generate daily highlights.
 - **Autonomous Job Application Agents (`Auto_Jobs_Applier_AIHawk`, `ApplyForJobScript`)**: Engineered intelligent automation tools using Playwright and LLMs to autonomously navigate platforms like LinkedIn. These agents can handle complex form submissions, intelligently parse custom resumes, and bypass dynamic web portal challenges.
-- **MemoTrace (`MemoTrace`)**: A specialized tool to extract and distill local WeChat chat data from macOS SQLite databases to fine-tune personal AI models for deployment on platforms like Google Colab.
 - **Emma Emotions Assistant (`Emma_EmotionsAssistant`)**: Integrated psychological scales into an MCP (Model Context Protocol) agent with bilingual support, contextual memory, and a dynamic LLM-driven character interface.
 
 ### 🏗️ Open-Source & Enterprise Architecture
@@ -37,7 +36,6 @@ I am constantly exploring the intersection of Artificial Intelligence and practi
 ### 🤖 人工智能与智能自动化
 - **Arxiv 论文摘要生成流水线 (`AutoArxivSummarization`)**：开发了一个完全支持双语（中/英文）的 AI 流水线，能够自动抓取、分析和总结 arXiv 论文。该项目部署在 Google Cloud Run 上，利用先进的 LLM 和复杂的“Adjudicator（裁决者）”模块来评估全文内容并生成每日亮点。
 - **自动化求职智能体 (`Auto_Jobs_Applier_AIHawk`, `ApplyForJobScript`)**：使用 Playwright 和大语言模型（LLM）开发了智能自动化工具，能够在 LinkedIn 等平台上自主投递简历。这些智能体可以处理复杂的表单提交，智能解析定制化简历，并应对动态网页的挑战。
-- **MemoTrace (`MemoTrace`)**：一个专用的数据提取工具，用于从 macOS 的 SQLite 数据库中提取和清洗微信聊天记录，并用于微调个人 AI 模型（部署于 Google Colab 等平台）。
 - **Emma 情绪助手 (`Emma_EmotionsAssistant`)**：将心理学量表集成到基于 MCP（模型上下文协议）的智能体中，支持双语切换，具备上下文记忆能力，并拥有由 LLM 驱动的动态角色交互界面。
 
 ### 🏗️ 开源项目与企业级架构
