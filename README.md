@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2500&pause=800&color=8B0000&center=true&vCenter=true&width=720&height=40&lines=%3E+software+engineer;%3E+ai+%26+llm+developer;%3E+automation+builder;%3E+%E4%BA%8C%E6%AC%A1%E5%85%83%E7%88%B1%E5%A5%BD%E8%80%85" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2500&pause=800&color=8B0000&center=true&vCenter=true&width=720&height=40&lines=%3E+software+engineer;%3E+ai+%26+llm+developer;%3E+automation+builder" alt="roles" />
 </p>
 
 <p align="center">
