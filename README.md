@@ -85,15 +85,16 @@
   <code>░▒▓█ &nbsp;&nbsp; A V E &nbsp;&nbsp; M U J I C A &nbsp;&nbsp; █▓▒░</code>
 </p>
 
-<p align="center">
-  <img src="assets/stickers/sakiko.jpg" width="120" alt="Sakiko" />
-  <img src="assets/stickers/mutsumi.jpg" width="120" alt="Mutsumi" />
-  <img src="assets/stickers/uika.jpg" width="120" alt="Uika" />
-  <img src="assets/stickers/yuutenji.jpg" width="120" alt="Yuutenji" />
-</p>
+<table align="center"><tr>
+  <td align="center"><img src="assets/stickers/mortis.png" width="110" alt="Mortis" /><br/><sub><code>M O R T I S</code></sub></td>
+  <td align="center"><img src="assets/stickers/doloris.png" width="110" alt="Doloris" /><br/><sub><code>D O L O R I S</code></sub></td>
+  <td align="center"><img src="assets/stickers/amoris.png" width="110" alt="Amoris" /><br/><sub><code>A M O R I S</code></sub></td>
+  <td align="center"><img src="assets/stickers/timoris.png" width="110" alt="Timoris" /><br/><sub><code>T I M O R I S</code></sub></td>
+  <td align="center"><img src="assets/stickers/oblivionis.png" width="110" alt="Oblivionis" /><br/><sub><code>O B L I V I O N I S</code></sub></td>
+</tr></table>
 
 <p align="center">
-  <code>░▒▓█ &nbsp;&nbsp; D O L O R · A M O R · M O R T E &nbsp;&nbsp; █▓▒░</code>
+  <code>░▒▓█ &nbsp;&nbsp; M O R S · D O L O R · A M O R · T I M O R · O B L I V I O &nbsp;&nbsp; █▓▒░</code>
 </p>
 
 <p align="center">
