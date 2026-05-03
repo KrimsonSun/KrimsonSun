@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:DC143C,100:FF00FF&height=200&section=header&text=KrimsonSun&fontColor=ffffff&fontSize=72&font=BlackOpsOne&animation=fadeIn&stroke=FF00FF&strokeWidth=2" width="100%" alt="KrimsonSun banner" />
+  <code>user@krimsonsun:~$ ./welcome.sh</code>
 </p>
 
 <p align="center">
@@ -7,16 +7,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=800&color=DC143C&center=true&vCenter=true&width=720&height=60&lines=%3E+Software+Engineer;%3E+AI+%26+LLM+Developer;%3E+Automation+Builder;%3E+%E4%BA%8C%E6%AC%A1%E5%85%83%E7%88%B1%E5%A5%BD%E8%80%85" alt="typing subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=900&height=80&lines=Long+Live+Sakiko+Togawa" alt="Long Live Sakiko Togawa" />
 </p>
 
 <p align="center">
-  <a href="#-english-version">⚡ English</a> ·
-  <a href="#-中文版本-chinese-version">⚡ 中文</a>
+  <code>░▒▓█ &nbsp;&nbsp;T R A N S M I S S I O N &nbsp;&nbsp; █▓▒░</code>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%E2%96%92%E2%96%93%E2%96%88%20SYSTEM%20ONLINE%20%E2%96%88%E2%96%93%E2%96%92-FF00FF?style=flat-square&labelColor=0D0D0D" alt="status" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2500&pause=800&color=8B0000&center=true&vCenter=true&width=720&height=40&lines=%3E+software+engineer;%3E+ai+%26+llm+developer;%3E+automation+builder;%3E+%E4%BA%8C%E6%AC%A1%E5%85%83%E7%88%B1%E5%A5%BD%E8%80%85" alt="roles" />
+</p>
+
+<p align="center">
+  <a href="#-english-version"><code>[ EN ]</code></a>
+  &nbsp;·&nbsp;
+  <a href="#-中文版本-chinese-version"><code>[ 中文 ]</code></a>
 </p>
 
 ---
@@ -41,20 +46,20 @@ Here is a highlight of the key areas I work on:
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-DC143C?style=for-the-badge&logo=openjdk&logoColor=FF00FF&labelColor=000000" alt="Java" />
-  <img src="https://img.shields.io/badge/PYTHON-DC143C?style=for-the-badge&logo=python&logoColor=FF00FF&labelColor=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-DC143C?style=for-the-badge&logo=typescript&logoColor=FF00FF&labelColor=000000" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-DC143C?style=for-the-badge&logo=javascript&logoColor=FF00FF&labelColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-DC143C?style=for-the-badge&logo=mysql&logoColor=FF00FF&labelColor=000000" alt="SQL" />
+  <img src="https://img.shields.io/badge/JAVA-8B0000?style=for-the-badge&logo=openjdk&logoColor=E8E8E8&labelColor=0D0D0D" alt="Java" />
+  <img src="https://img.shields.io/badge/PYTHON-8B0000?style=for-the-badge&logo=python&logoColor=E8E8E8&labelColor=0D0D0D" alt="Python" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-8B0000?style=for-the-badge&logo=typescript&logoColor=E8E8E8&labelColor=0D0D0D" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-8B0000?style=for-the-badge&logo=javascript&logoColor=E8E8E8&labelColor=0D0D0D" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=mysql&logoColor=E8E8E8&labelColor=0D0D0D" alt="SQL" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SPRING-FF00FF?style=for-the-badge&logo=springboot&logoColor=DC143C&labelColor=000000" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/ANDROID-FF00FF?style=for-the-badge&logo=android&logoColor=DC143C&labelColor=000000" alt="Android" />
-  <img src="https://img.shields.io/badge/DOCKER-FF00FF?style=for-the-badge&logo=docker&logoColor=DC143C&labelColor=000000" alt="Docker" />
-  <img src="https://img.shields.io/badge/GCLOUD-FF00FF?style=for-the-badge&logo=googlecloud&logoColor=DC143C&labelColor=000000" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/CI%2FCD-FF00FF?style=for-the-badge&logo=githubactions&logoColor=DC143C&labelColor=000000" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GRADLE-FF00FF?style=for-the-badge&logo=gradle&logoColor=DC143C&labelColor=000000" alt="Gradle" />
+  <img src="https://img.shields.io/badge/SPRING-8B0000?style=for-the-badge&logo=springboot&logoColor=E8E8E8&labelColor=0D0D0D" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/ANDROID-8B0000?style=for-the-badge&logo=android&logoColor=E8E8E8&labelColor=0D0D0D" alt="Android" />
+  <img src="https://img.shields.io/badge/DOCKER-8B0000?style=for-the-badge&logo=docker&logoColor=E8E8E8&labelColor=0D0D0D" alt="Docker" />
+  <img src="https://img.shields.io/badge/GCLOUD-8B0000?style=for-the-badge&logo=googlecloud&logoColor=E8E8E8&labelColor=0D0D0D" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/CI%2FCD-8B0000?style=for-the-badge&logo=githubactions&logoColor=E8E8E8&labelColor=0D0D0D" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GRADLE-8B0000?style=for-the-badge&logo=gradle&logoColor=E8E8E8&labelColor=0D0D0D" alt="Gradle" />
 </p>
 
 - **AI & Automation**: Large Language Models (LLMs), Playwright, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP)
@@ -83,20 +88,20 @@ I am constantly exploring the intersection of Artificial Intelligence and practi
 ### 🛠️ 技术栈
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-DC143C?style=for-the-badge&logo=openjdk&logoColor=FF00FF&labelColor=000000" alt="Java" />
-  <img src="https://img.shields.io/badge/PYTHON-DC143C?style=for-the-badge&logo=python&logoColor=FF00FF&labelColor=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-DC143C?style=for-the-badge&logo=typescript&logoColor=FF00FF&labelColor=000000" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-DC143C?style=for-the-badge&logo=javascript&logoColor=FF00FF&labelColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-DC143C?style=for-the-badge&logo=mysql&logoColor=FF00FF&labelColor=000000" alt="SQL" />
+  <img src="https://img.shields.io/badge/JAVA-8B0000?style=for-the-badge&logo=openjdk&logoColor=E8E8E8&labelColor=0D0D0D" alt="Java" />
+  <img src="https://img.shields.io/badge/PYTHON-8B0000?style=for-the-badge&logo=python&logoColor=E8E8E8&labelColor=0D0D0D" alt="Python" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-8B0000?style=for-the-badge&logo=typescript&logoColor=E8E8E8&labelColor=0D0D0D" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-8B0000?style=for-the-badge&logo=javascript&logoColor=E8E8E8&labelColor=0D0D0D" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=mysql&logoColor=E8E8E8&labelColor=0D0D0D" alt="SQL" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SPRING-FF00FF?style=for-the-badge&logo=springboot&logoColor=DC143C&labelColor=000000" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/ANDROID-FF00FF?style=for-the-badge&logo=android&logoColor=DC143C&labelColor=000000" alt="Android" />
-  <img src="https://img.shields.io/badge/DOCKER-FF00FF?style=for-the-badge&logo=docker&logoColor=DC143C&labelColor=000000" alt="Docker" />
-  <img src="https://img.shields.io/badge/GCLOUD-FF00FF?style=for-the-badge&logo=googlecloud&logoColor=DC143C&labelColor=000000" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/CI%2FCD-FF00FF?style=for-the-badge&logo=githubactions&logoColor=DC143C&labelColor=000000" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GRADLE-FF00FF?style=for-the-badge&logo=gradle&logoColor=DC143C&labelColor=000000" alt="Gradle" />
+  <img src="https://img.shields.io/badge/SPRING-8B0000?style=for-the-badge&logo=springboot&logoColor=E8E8E8&labelColor=0D0D0D" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/ANDROID-8B0000?style=for-the-badge&logo=android&logoColor=E8E8E8&labelColor=0D0D0D" alt="Android" />
+  <img src="https://img.shields.io/badge/DOCKER-8B0000?style=for-the-badge&logo=docker&logoColor=E8E8E8&labelColor=0D0D0D" alt="Docker" />
+  <img src="https://img.shields.io/badge/GCLOUD-8B0000?style=for-the-badge&logo=googlecloud&logoColor=E8E8E8&labelColor=0D0D0D" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/CI%2FCD-8B0000?style=for-the-badge&logo=githubactions&logoColor=E8E8E8&labelColor=0D0D0D" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GRADLE-8B0000?style=for-the-badge&logo=gradle&logoColor=E8E8E8&labelColor=0D0D0D" alt="Gradle" />
 </p>
 
 - **AI 与自动化**：大语言模型（LLMs）, Playwright, 检索增强生成（RAG）, 模型上下文协议（MCP）
@@ -104,5 +109,5 @@ I am constantly exploring the intersection of Artificial Intelligence and practi
 我一直在探索人工智能与实用软件工程的交叉点，致力于构建能够节省时间、增进理解并解决现实世界问题的强大工具。
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,60:DC143C,100:0D0D0D&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+  <code>░▒▓█ &nbsp;&nbsp; E N D _ O F _ S I G N A L &nbsp;&nbsp; █▓▒░</code>
 </p>
