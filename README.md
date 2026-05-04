@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/sakiko.gif" width="360" alt="Sakiko Togawa · Ave Mujica" />
+</p>
+
+<p align="center">
   <code>user@krimsonsun:~$ ./welcome.sh</code>
 </p>
 
