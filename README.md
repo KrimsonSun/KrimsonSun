@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/avatar.gif" alt="KrimsonSun" width="480" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=56&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=900&height=80&lines=Long+Live+Sakiko+Togawa" alt="Long Live Sakiko Togawa" />
 </p>
 
