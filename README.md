@@ -32,6 +32,7 @@
 
 <h3 align="center">▓ AI & Intelligent Automation ▓</h3>
 
+- <a href="https://github.com/RCHENLAB/AiScientist"><code>BioAgent</code></a> — Multi-agent bioinformatics research console (RCHENLAB/AiScientist). A Principal Investigator → Scientist → Critic agent loop plans and runs real single-cell analyses on UCI HPC3, serving an open-weights LLM on-cluster so data never leaves campus, and streams back a citable report with figures, tables, and a PDF/DOCX manuscript.
 - <code>AutoArxivSummarization</code> — Bilingual (EN/CN) AI pipeline that fetches, analyzes, and summarizes arXiv papers. Built on Google Cloud Run with an "Adjudicator" module that reviews full text and produces daily highlights.
 - <code>Auto_Jobs_Applier_AIHawk</code> · <code>ApplyForJobScript</code> — Autonomous Playwright + LLM agents that navigate LinkedIn-style portals, submit complex forms, parse custom resumes, and bypass dynamic web challenges.
 - <code>Emma_EmotionsAssistant</code> — MCP-based agent integrating psychological scales with bilingual support, contextual memory, and an LLM-driven character interface.
@@ -93,6 +94,7 @@
 
 <h3 align="center">▓ 人工智能与智能自动化 ▓</h3>
 
+- <a href="https://github.com/RCHENLAB/AiScientist"><code>BioAgent</code></a> —— 多智能体生物信息学研究平台（RCHENLAB/AiScientist）。以"首席研究员 → 科学家 → 评审"的角色循环规划并执行真实的单细胞分析，开源权重大模型直接运行在 UCI HPC3 集群内，数据不出校园，最终输出带图表的可引用报告与 PDF/DOCX 论文草稿。
 - <code>AutoArxivSummarization</code> —— 双语（中/英）AI 流水线，自动抓取、分析、总结 arXiv 论文。基于 Google Cloud Run 部署，配备"Adjudicator（裁决者）"模块评估全文并生成每日亮点。
 - <code>Auto_Jobs_Applier_AIHawk</code> · <code>ApplyForJobScript</code> —— 基于 Playwright + LLM 的自主求职智能体，能在 LinkedIn 等平台上自主投递简历，处理复杂表单与动态网页挑战。
 - <code>Emma_EmotionsAssistant</code> —— 基于 MCP（模型上下文协议）的情绪助手，集成心理学量表，支持双语切换、上下文记忆与 LLM 驱动的角色交互界面。
