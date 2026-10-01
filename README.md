@@ -48,20 +48,20 @@
 <h3 align="center">▓ Tech Stack ▓</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-8B0000?style=for-the-badge&logo=openjdk&logoColor=E8E8E8&labelColor=0D0D0D" alt="Java" />
-  <img src="https://img.shields.io/badge/PYTHON-8B0000?style=for-the-badge&logo=python&logoColor=E8E8E8&labelColor=0D0D0D" alt="Python" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-8B0000?style=for-the-badge&logo=typescript&logoColor=E8E8E8&labelColor=0D0D0D" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-8B0000?style=for-the-badge&logo=javascript&logoColor=E8E8E8&labelColor=0D0D0D" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=mysql&logoColor=E8E8E8&labelColor=0D0D0D" alt="SQL" />
+  <img src="assets/badges/java.svg" alt="Java" />
+  <img src="assets/badges/python.svg" alt="Python" />
+  <img src="assets/badges/typescript.svg" alt="TypeScript" />
+  <img src="assets/badges/javascript.svg" alt="JavaScript" />
+  <img src="assets/badges/sql.svg" alt="SQL" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SPRING-8B0000?style=for-the-badge&logo=springboot&logoColor=E8E8E8&labelColor=0D0D0D" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/ANDROID-8B0000?style=for-the-badge&logo=android&logoColor=E8E8E8&labelColor=0D0D0D" alt="Android" />
-  <img src="https://img.shields.io/badge/DOCKER-8B0000?style=for-the-badge&logo=docker&logoColor=E8E8E8&labelColor=0D0D0D" alt="Docker" />
-  <img src="https://img.shields.io/badge/GCLOUD-8B0000?style=for-the-badge&logo=googlecloud&logoColor=E8E8E8&labelColor=0D0D0D" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/CI%2FCD-8B0000?style=for-the-badge&logo=githubactions&logoColor=E8E8E8&labelColor=0D0D0D" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GRADLE-8B0000?style=for-the-badge&logo=gradle&logoColor=E8E8E8&labelColor=0D0D0D" alt="Gradle" />
+  <img src="assets/badges/spring.svg" alt="Spring Boot" />
+  <img src="assets/badges/android.svg" alt="Android" />
+  <img src="assets/badges/docker.svg" alt="Docker" />
+  <img src="assets/badges/gcloud.svg" alt="Google Cloud" />
+  <img src="assets/badges/cicd.svg" alt="GitHub Actions" />
+  <img src="assets/badges/gradle.svg" alt="Gradle" />
 </p>
 
 > **AI & Automation tooling** — LLMs · Playwright · RAG · Model Context Protocol (MCP)
@@ -110,20 +110,20 @@
 <h3 align="center">▓ 技术栈 ▓</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-8B0000?style=for-the-badge&logo=openjdk&logoColor=E8E8E8&labelColor=0D0D0D" alt="Java" />
-  <img src="https://img.shields.io/badge/PYTHON-8B0000?style=for-the-badge&logo=python&logoColor=E8E8E8&labelColor=0D0D0D" alt="Python" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-8B0000?style=for-the-badge&logo=typescript&logoColor=E8E8E8&labelColor=0D0D0D" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-8B0000?style=for-the-badge&logo=javascript&logoColor=E8E8E8&labelColor=0D0D0D" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=mysql&logoColor=E8E8E8&labelColor=0D0D0D" alt="SQL" />
+  <img src="assets/badges/java.svg" alt="Java" />
+  <img src="assets/badges/python.svg" alt="Python" />
+  <img src="assets/badges/typescript.svg" alt="TypeScript" />
+  <img src="assets/badges/javascript.svg" alt="JavaScript" />
+  <img src="assets/badges/sql.svg" alt="SQL" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SPRING-8B0000?style=for-the-badge&logo=springboot&logoColor=E8E8E8&labelColor=0D0D0D" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/ANDROID-8B0000?style=for-the-badge&logo=android&logoColor=E8E8E8&labelColor=0D0D0D" alt="Android" />
-  <img src="https://img.shields.io/badge/DOCKER-8B0000?style=for-the-badge&logo=docker&logoColor=E8E8E8&labelColor=0D0D0D" alt="Docker" />
-  <img src="https://img.shields.io/badge/GCLOUD-8B0000?style=for-the-badge&logo=googlecloud&logoColor=E8E8E8&labelColor=0D0D0D" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/CI%2FCD-8B0000?style=for-the-badge&logo=githubactions&logoColor=E8E8E8&labelColor=0D0D0D" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GRADLE-8B0000?style=for-the-badge&logo=gradle&logoColor=E8E8E8&labelColor=0D0D0D" alt="Gradle" />
+  <img src="assets/badges/spring.svg" alt="Spring Boot" />
+  <img src="assets/badges/android.svg" alt="Android" />
+  <img src="assets/badges/docker.svg" alt="Docker" />
+  <img src="assets/badges/gcloud.svg" alt="Google Cloud" />
+  <img src="assets/badges/cicd.svg" alt="GitHub Actions" />
+  <img src="assets/badges/gradle.svg" alt="Gradle" />
 </p>
 
 > **AI 与自动化工具** —— LLMs · Playwright · RAG · Model Context Protocol (MCP)
